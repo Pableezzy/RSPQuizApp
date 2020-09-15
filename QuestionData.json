@@ -1,30 +1,57 @@
 [
   {
-    "question": "Jason watched his sister Jeanie ambling slowly toward him. He rolled his eyes in annoyance. If she walks any slower, she’ll be going backward, he thought. What is the meaning of ambling as it is used in the text?",
+    "question": "The students are not in favor of the principal’s suggestion to abolish recess. What does abolish mean?",
     "answers": [
-      "Watching Someone",
-      "Walking slowly",
-      "Walking backwards"
+      "keep",
+      "make longer",
+      "cancel"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Make an inference: The students are not in favor...They don't want recess to be canceled."
+  },
+  {"question": "My mom and I saunter through the park on nice days. What does saunter mean?",
+    "answers": [
+      "to rush",
+      "stroll or walk slowly",
+      "Skip"
     ],
     "correctAnswerIndex": 1,
-    "feedback": "Context Clue: Synonym (Same) If she walks any slower"
+    "feedback": "Make an inference: on nice days... they're going to enjoy the moment & walk slowly."
   },
-  {"question": "Cheryl and her sister Jasmine went to the sporting goods store to buy the right clothes for practice. Then they went to the gym to sign up. What type of practices can you do in a gym? ",
+  {"question": "In this instance, the disease can be cured by medication. What does instance mean?",
     "answers": [
-      "Teach swim lessons",
-      "Search for more clothes",
-      "Take gymnastics"
+      "occurrence or this moment",
+      "in the future",
+      "medicine"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Context Clue: In this... moment or occurrence makes the most sense."
+  },
+  {"question": "The aroma of my mother’s perfume is too sweet for my liking. What does aroma mean?",
+    "answers": [
+      "strong",
+      "sweet",
+      "scent"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "making inferences (reading between the lines) they signed up for a gym class. They aren't teaching or buying clothes."
+    "feedback": "Context Clue: of my mother's perfume... signifies a smell or scent."
   },
-  {"question": "Black bears do not eat while they hibernate. After these long months without food, there hungry bears ravenously eat everything they can find. What is the meaning of ravenously as it is used in the text?",
+  {"question": "The author kept her story concise so that the readers did not get bored. What does concise mean?",
     "answers": [
-      "In a sleepy way ",
-      "Grabbing many things",
-      "In a very hungry way"
+      "long",
+      "brief or short",
+      "clear"
     ],
-    "correctAnswerIndex": 2,
-    "feedback": "Context Clue: Synonym (Same) hungry bears...eat everything"
+    "correctAnswerIndex": 1,
+    "feedback": "Make an inference: so that the readers did not get bored... the story was brief or short."
+  },
+  {"question": "The frigid gusts of wind made the tips of their noses hurt. What does frigid mean?",
+    "answers": [
+      "freezing",
+      "powerful",
+      "long"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Make an inference: made the tips of their noses hurt... it's cold!"
   }
 ]
