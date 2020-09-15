@@ -1,22 +1,30 @@
 [
   {
-    "question": "What's the keyword for declaring a new variable?",
+    "question": "Jason watched his sister Jeanie ambling slowly toward him. He rolled his eyes in annoyance. If she walks any slower, she’ll be going backward, he thought. What is the meaning of ambling as it is used in the text?",
     "answers": [
-      "var",
-      "v",
-      "variable"
-    ],
-    "correctAnswerIndex": 0,
-    "feedback": "var is the keyword used to declare a new variable."
-  },
-  {
-    "question": "What's the keyword for declaring a new constant?",
-    "answers": [
-      "constant",
-      "let",
-      "con"
+      "Watching Someone",
+      "Walking slowly",
+      "Walking backwards"
     ],
     "correctAnswerIndex": 1,
-    "feedback": "let is the keyword used to declare a new constant."
+    "feedback": "Context Clue: Synonym (Same) If she walks any slower"
+  },
+  {"question": "Cheryl and her sister Jasmine went to the sporting goods store to buy the right clothes for practice. Then they went to the gym to sign up. What type of practices can you do in a gym? ",
+    "answers": [
+      "Teach swim lessons",
+      "Search for more clothes",
+      "Take gymnastics"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "making inferences (reading between the lines) they signed up for a gym class. They aren't teaching or buying clothes."
+  },
+  {"question": "Black bears do not eat while they hibernate. After these long months without food, there hungry bears ravenously eat everything they can find. What is the meaning of ravenously as it is used in the text?",
+    "answers": [
+      "In a sleepy way ",
+      "Grabbing many things",
+      "In a very hungry way"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Context Clue: Synonym (Same) hungry bears...eat everything"
   }
 ]
