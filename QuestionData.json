@@ -18,14 +18,14 @@
     "correctAnswerIndex": 1,
     "feedback": "Make an inference: on nice days... they're going to enjoy the moment & walk slowly."
   },
-  {"question": "In this instance, the disease can be cured by medication. What does instance mean?",
+  {"question": "Her thrifty habits have helped the family to save enough money to buy a house. What does thrifty mean?",
     "answers": [
-      "occurrence or this moment",
-      "in the future",
-      "medicine"
+      "economical or careful with money",
+      "wasteful",
+      "responsible"
     ],
     "correctAnswerIndex": 0,
-    "feedback": "Context Clue: In this... moment or occurrence makes the most sense."
+    "feedback": "Context Clue: habits...helped the family...to save enough money. She's careful with money."
   },
   {"question": "The aroma of my mother’s perfume is too sweet for my liking. What does aroma mean?",
     "answers": [
@@ -53,5 +53,41 @@
     ],
     "correctAnswerIndex": 0,
     "feedback": "Make an inference: made the tips of their noses hurt... it's cold!"
+  },
+  {"question": "Scratching the mosquito bite will only exacerbate the wound. What does exacerbate mean??",
+    "answers": [
+      "heal",
+      "reduce",
+      "make worst"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Make an inference: what happens when your scratch a mosquito bite?...it becomes worst!"
+  },
+  {"question": "The 2020 Los Angeles Lakers possess all the attributes to win a Championship. What does attributes mean?",
+    "answers": [
+      "power",
+      "qualities or characteristics",
+      "excitement"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Context Clue: possess all the...to win a Championship. Qualities to out-score."
+  },
+  {"question": "This test can detect the presence of Covid-19 in your body. What does detect mean?",
+    "answers": [
+      "hide",
+      "cure",
+      "discover"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Context Clue: test...the presence...in your body. It discovers!"
+  },
+  {"question": "The 2016 Golden State Warriors dominated the NBA with a 89% winning record. What does dominate mean?",
+    "answers": [
+      "control or overshadow",
+      "pass",
+      "surrender"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Make an inference: 89% winning record... They beat most teams!"
   }
 ]
