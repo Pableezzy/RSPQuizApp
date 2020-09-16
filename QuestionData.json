@@ -54,7 +54,7 @@
     "correctAnswerIndex": 0,
     "feedback": "Make an inference: made the tips of their noses hurt... it's cold!"
   },
-  {"question": "Scratching the mosquito bite will only exacerbate the wound. What does exacerbate mean??",
+  {"question": "Scratching the mosquito bite will only exacerbate the wound. What does exacerbate mean?",
     "answers": [
       "heal",
       "reduce",
