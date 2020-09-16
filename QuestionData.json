@@ -83,11 +83,11 @@
   },
   {"question": "The 2016 Golden State Warriors dominated the NBA with a 89% winning record. What does dominate mean?",
     "answers": [
-      "control or overshadow",
+      "surrender",
       "pass",
-      "surrender"
+      "control or overshadow"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 2,
     "feedback": "Make an inference: 89% winning record... They beat most teams!"
   }
 ]
